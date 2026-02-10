@@ -13,7 +13,7 @@
 - Комбинирование различных компоузабл-функций
 
 ## Скриншот результата
-[Скриншот приложения](<img width="264" height="532" alt="image" src="https://github.com/user-attachments/assets/970a4448-ec25-418e-8114-99c109373aba" />
+![Скриншот приложения](<img width="264" height="532" alt="image" src="https://github.com/user-attachments/assets/970a4448-ec25-418e-8114-99c109373aba" />
 )
 
 ## Технологии
